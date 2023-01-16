@@ -70,6 +70,7 @@ body {
   letter-spacing: 2.5px;
   color: var(--text-accent-color);
   font-size: 12px;
+  text-transform: uppercase;
 }
 
 .card .card-info .card-text {
