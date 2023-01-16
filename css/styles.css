@@ -106,7 +106,7 @@ body {
   font-size: 16px;
 }
 
-.btn-add-cart label {
+.btn-add-cart span {
   margin-left: 15px;
   font-family: Montserrat, sans-serif;
 }
